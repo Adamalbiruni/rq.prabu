@@ -1,0 +1,73 @@
+
+.tim img {
+    width: 250px;
+    border: 10px solid #fff;
+}
+
+.w-100 {
+    width: 100% !important;
+    height: 32rem;
+  }
+
+  p {
+    line-height: 1.5;
+  }
+
+  p:first-of-type {
+    margin-top: 1rem;
+  }
+  
+p::first-line {
+  margin-top: 1rem;
+}
+
+.icon {
+    font-size: 3rem;
+    justify-content: left;
+    display: inline-block;
+}
+
+.testnav {
+    margin-left: 10rem;
+    padding-top: 2rem;
+}
+
+.testicon {
+    justify-content: center;
+}
+
+a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+}
+
+.icontest {
+    font-size: 1.1rem;
+}
+
+.socialtest {
+    color: #333;
+    font-size: 2rem;
+}
+
+.tentang {
+  padding-top: 5rem;
+  padding-bottom: 20rem;
+}
+
+.tentanggaleri {
+  padding-top: 5rem;
+  padding-bottom: 8rem;
+}
+
+.misi1 {
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+}
